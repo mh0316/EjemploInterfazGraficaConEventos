@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ejemplo Interfaz gráfica con eventos.iml" filepath="$PROJECT_DIR$/.idea/Ejemplo Interfaz gráfica con eventos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VentanaConEventos/VentanaConEventos.iml" filepath="$PROJECT_DIR$/VentanaConEventos/VentanaConEventos.iml" />
+    </modules>
+  </component>
+</project>
